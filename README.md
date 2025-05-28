@@ -1,3 +1,3 @@
 # Portfólio
 
-https://julianoMS7.github.io/
+https://JulianoMS7.github.io/
