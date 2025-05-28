@@ -1,3 +1,3 @@
 # Portfólio
 
-https://beatrizbuffon21.github.io/
+https://juliano.github.io/
